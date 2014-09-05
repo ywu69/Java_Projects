@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ywu69/!svn/ver/94/cs212/project4/src
+END
+HTMLCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ywu69/!svn/ver/95/cs212/project4/src/HTMLCleaner.java
+END
+Driver.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ywu69/!svn/ver/96/cs212/project4/src/Driver.java
+END
+IndexSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ywu69/!svn/ver/94/cs212/project4/src/IndexSearcher.java
+END
+MultiReaderLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ywu69/!svn/ver/94/cs212/project4/src/MultiReaderLock.java
+END
+ThreadSafeInvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ywu69/!svn/ver/94/cs212/project4/src/ThreadSafeInvertedIndex.java
+END
+MultithreadedIndexSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ywu69/!svn/ver/94/cs212/project4/src/MultithreadedIndexSearcher.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ywu69/!svn/ver/94/cs212/project4/src/SearchResult.java
+END
+HTMLLinkParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ywu69/!svn/ver/94/cs212/project4/src/HTMLLinkParser.java
+END
+WebCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ywu69/!svn/ver/96/cs212/project4/src/WebCrawler.java
+END
+WorkQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ywu69/!svn/ver/94/cs212/project4/src/WorkQueue.java
+END
+InvertedIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ywu69/!svn/ver/94/cs212/project4/src/InvertedIndex.java
+END
+ArgumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ywu69/!svn/ver/94/cs212/project4/src/ArgumentParser.java
+END
+HTMLFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ywu69/!svn/ver/97/cs212/project4/src/HTMLFetcher.java
+END
+FileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ywu69/!svn/ver/94/cs212/project4/src/FileParser.java
+END
+MultithreadedDirectoryTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ywu69/!svn/ver/94/cs212/project4/src/MultithreadedDirectoryTraverser.java
+END
+DirectoryTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ywu69/!svn/ver/94/cs212/project4/src/DirectoryTraverser.java
+END

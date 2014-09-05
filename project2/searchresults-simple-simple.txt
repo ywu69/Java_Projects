@@ -1,0 +1,15 @@
+two
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 1, 2
+
+chickadee
+
+aa
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/capital_extension.TXT", 1, 1
+
+t
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 6, 2
+
+elephant antelope
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/symbols.txt", 9, 1
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/capitals.txt", 4, 1
+

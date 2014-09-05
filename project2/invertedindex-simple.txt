@@ -1,0 +1,90 @@
+1
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/digits.txt", 1
+
+123
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/digits.txt", 4
+
+123a
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/digits.txt", 6
+
+2
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/digits.txt", 2
+
+3
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/digits.txt", 3
+
+a123
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/digits.txt", 5
+
+aardvark
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/capital_extension.TXT", 1
+
+alpaca
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/a/b/c/d/subdir.txt", 1
+
+antelope
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/symbols.txt", 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+eight
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 8
+
+eighteen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 18
+
+elephant
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/capitals.txt", 1, 2, 3, 4
+
+eleven
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 11
+
+fifteen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 15
+
+five
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 5
+
+four
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 4
+
+fourteen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 14
+
+nine
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 9
+
+nineteen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 19
+
+one
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 1
+
+seven
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 7
+
+seventeen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 17
+
+six
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 6
+
+sixteen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 16
+
+ten
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 10
+
+thirteen
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 13
+
+three
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 3
+
+twelve
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 12
+
+twenty
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 20
+
+two
+"/Users/Wilfred/Documents/workspace/project2/input/index/simple/position.txt", 2
+
